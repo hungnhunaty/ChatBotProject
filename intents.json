@@ -1,0 +1,94 @@
+{
+  "intents": [
+    {
+      "tag": "gioi_thieu_khoa",
+      "patterns": [
+        "Trường Đại Học Công Nghệ TP.HCM-HUTECH"
+      ],
+      "responses": [
+        "Tiếng Việt | English Ngày 04/10, Viện Đào tạo Sau Đại học HUTECH đã tổ chức buổi đánh giá chuyên đề luận án Tiến sĩ cho Nghiên cứu sinh Nguyễn Duy Phương - chuyên ngành Quản trị kinh doanh, đánh dấu một cột mốc quan trọng trong hành trình học thuật của học viên cũng... Chiều 04/10, tại Trường Mầm non Quới Sơn (xã Giao Long, tỉnh Vĩnh Long), không khí rộn ràng của Tết Trung thu đã tràn ngập khắp sâ..."
+      ]
+    },
+    {
+      "tag": "gioi_thieu_khoa",
+      "patterns": [
+        "Trường Đại Học Công Nghệ TP.HCM-HUTECH"
+      ],
+      "responses": [
+        "Tiếng Việt | English Ngày 04/10, Viện Đào tạo Sau Đại học HUTECH đã tổ chức buổi đánh giá chuyên đề luận án Tiến sĩ cho Nghiên cứu sinh Nguyễn Duy Phương - chuyên ngành Quản trị kinh doanh, đánh dấu một cột mốc quan trọng trong hành trình học thuật của học viên cũng... Chiều 04/10, tại Trường Mầm non Quới Sơn (xã Giao Long, tỉnh Vĩnh Long), không khí rộn ràng của Tết Trung thu đã tràn ngập khắp sâ..."
+      ]
+    },
+    {
+      "tag": "khac",
+      "patterns": [
+        "HUTECH University of Technology"
+      ],
+      "responses": [
+        "Tiếng Việt | English On October 3, the Institute of International Education of Ho Chi Minh City University of Technology (HUTECH) held a working session with a delegation from the University of Auckland (New Zealand, UoA) to expand cooperation in education, offering... After more than a month of meaningful activities, 40 students from Ho Chi Minh City University of Technology (HUTECH) were honored..."
+      ]
+    },
+    {
+      "tag": "gioi_thieu_khoa",
+      "patterns": [
+        "Tổng quan về Trường"
+      ],
+      "responses": [
+        "Tiếng Việt | English Trường Đại học Công nghệ TP.HCM - HUTECH tiền thân là Trường Đại học Kỹ thuật Công nghệ TP.HCM, được thành lập ngày 26/4/1995 theo quyết định số 235/QĐ-TTg của Thủ tướng Chính phủ và đi vào hoạt động theo quyết định của Bộ trưởng Bộ GD&ĐT số 2128/QĐ-GDĐT. Sau 30 năm xây dựng và phát triển, hiện HUTECH sở hữu 04 khu học xá toạ lạc tại TP. Hồ Chí Minh. Các khu học xá được đầu tư..."
+      ]
+    },
+    {
+      "tag": "gioi_thieu_khoa",
+      "patterns": [
+        "Tổng quan về Trường"
+      ],
+      "responses": [
+        "Tiếng Việt | English Trường Đại học Công nghệ TP.HCM - HUTECH tiền thân là Trường Đại học Kỹ thuật Công nghệ TP.HCM, được thành lập ngày 26/4/1995 theo quyết định số 235/QĐ-TTg của Thủ tướng Chính phủ và đi vào hoạt động theo quyết định của Bộ trưởng Bộ GD&ĐT số 2128/QĐ-GDĐT. Sau 30 năm xây dựng và phát triển, hiện HUTECH sở hữu 04 khu học xá toạ lạc tại TP. Hồ Chí Minh. Các khu học xá được đầu tư..."
+      ]
+    },
+    {
+      "tag": "tuyen_sinh",
+      "patterns": [
+        "Lịch sử phát triển"
+      ],
+      "responses": [
+        "Tiếng Việt | English Ngày 26/4/1995, Thủ tướng Chính phủ ký quyết định số 235/TTg thành lập Trường Đại học Kỹ thuật Công nghệ TP.HCM (HUTECH). Đến ngày 24/6/1995, HUTECH chính thức đi vào hoạt động và tuyển sinh trình độ Đại học khóa đầu tiên vào năm học 1995-1996 (theo quyết định số 2128/GD-ĐT của Bộ Giáo dục và Đào tạo). Với 25 năm hình thành và phát triển, HUTECH đã cung cấp cho xã hội hàng ngà..."
+      ]
+    },
+    {
+      "tag": "khac",
+      "patterns": [
+        "Sơ đồ tổ chức"
+      ],
+      "responses": [
+        "Tiếng Việt | English HUTECH chào bạn!Mời bạn gửi thắc mắc của mình tại đây để được giải đáp nhanh chóng nhé!..."
+      ]
+    },
+    {
+      "tag": "dang_ky_mon",
+      "patterns": [
+        "Trang không tìm thấy | HUTECH"
+      ],
+      "responses": [
+        "Tiếng Việt | English Trang bạn đang truy cập có thể không tồn tại MỜI BẠN QUAY LẠI VÀO NGÀY 04/10/2021, ĐỂ ĐĂNG KÝ DỰ THI!..."
+      ]
+    },
+    {
+      "tag": "khac",
+      "patterns": [
+        "Ban Giám hiệu"
+      ],
+      "responses": [
+        "Tiếng Việt | English HUTECH chào bạn!Mời bạn gửi thắc mắc của mình tại đây để được giải đáp nhanh chóng nhé!..."
+      ]
+    },
+    {
+      "tag": "gioi_thieu_khoa",
+      "patterns": [
+        "Thành tích đạt được"
+      ],
+      "responses": [
+        "Tiếng Việt | English Với sự nỗ lực hết mình, không ngừng vươn lên, trong hơn 28 năm qua, tập thể cán bộ - giảng viên - nhân viên và sinh viên của Nhà trường đã mang về nhiều thành tích trong nhiều lĩnh vực hoạt động, cụ thể: Nhận Huân chương lao động hạng Nhất của Chủ tịch nước nhân kỷ niệm 25 năm thành lập trường Sinh viên HUTECH nhận 1 giải Nhì, 4 giải Ba và 4 giải Khuyến khích tại giải thưởng S..."
+      ]
+    }
+  ]
+}
